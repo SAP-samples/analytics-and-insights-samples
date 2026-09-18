@@ -1,41 +1,29 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and REUSE.toml. All repositories on github.com/SAP-samples will be created based on this template.
+# SAP Analytics & Insights Samples
 
-# Containing Files
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/analytics-and-insights-samples)](https://api.reuse.software/info/github.com/SAP-samples/analytics-and-insights-samples)
 
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
+A collection of end-to-end samples and demos built by the SAP Analytics & Insights team, covering SAP Analytics Cloud, SAP Datasphere, SAP AI Core, and related services.
 
-2. The REUSE.toml file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the REUSE.toml in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
+## Samples
 
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# [Title]
-<!-- Please include descriptive title -->
-
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
-
-## Description
-<!-- Please include SEO-friendly description -->
+| Sample | Description | Tags |
+| --- | --- | --- |
+| [analytics-cloud-rpt15-prediction-demo](./analytics-cloud-rpt15-prediction-demo) | Run RPT-1.5 payment delay predictions from SAC via a FastAPI backend on Cloud Foundry, reading/writing data through SAP Datasphere & HANA Cloud | SAC · AI Core · Datasphere · Cloud Foundry |
 
 ## Requirements
 
-## Download and Installation
-
-## Known Issues
-<!-- You may simply state "No known issues. -->
+Each sample has its own `README.md` with specific requirements and setup instructions.
 
 ## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
- 
+
+[Create an issue](https://github.com/SAP-samples/analytics-and-insights-samples/issues) in this repository if you find a bug or have questions about the content.
+
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## Contributing
+
 If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
 
 ## License
+
 Copyright 2026 SAP SE or an SAP affiliate company and analytics-and-insights-samples contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP-samples/analytics-and-insights-samples).
