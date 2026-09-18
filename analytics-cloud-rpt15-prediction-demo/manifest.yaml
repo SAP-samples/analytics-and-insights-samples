@@ -1,0 +1,10 @@
+---
+applications:
+  - name: rpt1-demo
+    memory: 1G
+    disk_quota: 1G
+    instances: 1
+    buildpacks:
+      - python_buildpack
+    command: uvicorn main:app --host 0.0.0.0 --port $PORT --proxy-headers --forwarded-allow-ips='*'
+    health-check-type: process
