@@ -6,9 +6,9 @@ A collection of end-to-end samples and demos built by the SAP Analytics & Insigh
 
 ## Samples
 
-| Sample | Description | Tags |
-| --- | --- | --- |
-| [analytics-cloud-rpt15-prediction-demo](./analytics-cloud-rpt15-prediction-demo) | Run RPT-1.5 payment delay predictions from SAC via a FastAPI backend on Cloud Foundry, reading/writing data through SAP Datasphere & HANA Cloud | SAC · AI Core · Datasphere · Cloud Foundry |
+| Sample | Description | Blog Post | Tags |
+| --- | --- | --- | --- |
+| [analytics-cloud-rpt15-prediction-demo](./analytics-cloud-rpt15-prediction-demo) | Run RPT-1.5 payment delay predictions from SAC via a FastAPI backend on Cloud Foundry, reading/writing data through SAP Datasphere & HANA Cloud | [From Data to Prediction: Integrating RPT-1.5 into SAP Analytics Cloud](https://community.sap.com/t5/technology-blog-posts-by-sap/from-data-to-prediction-integrating-rpt-1-5-into-sap-analytics-cloud/ba-p/14449674) | SAC · AI Core · Datasphere · Cloud Foundry |
 
 ## Requirements
 
