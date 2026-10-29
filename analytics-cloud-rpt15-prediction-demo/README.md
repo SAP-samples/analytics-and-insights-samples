@@ -2,6 +2,10 @@
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/analytics-and-insights-samples)](https://api.reuse.software/info/github.com/SAP-samples/analytics-and-insights-samples)
 
+## Related Blog Post
+
+[From Data to Prediction: Integrating RPT-1.5 into SAP Analytics Cloud](https://community.sap.com/t5/technology-blog-posts-by-sap/from-data-to-prediction-integrating-rpt-1-5-into-sap-analytics-cloud/ba-p/14449674)
+
 ## Description
 
 Run **RPT-1.5** predictions directly from **SAP Analytics Cloud (SAC)**.
